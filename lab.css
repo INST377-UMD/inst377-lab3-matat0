@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(39, 43, 54);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_footer {
+    background-color:rgb(83, 91, 112);
+    color:white;
+    text-align:center;
+    margin:50px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#middle {
+    margin:50px;
+    padding:50px;
+    color:white;
+}
+
+#main_body {
+    background-color:rgb(66, 80, 115);
+    width:60%;
+    float:left;
+}
+
+#sidebar {
+    background-color:rgb(46, 85, 182);
+    width: 40%;
+    float:right;
+}
